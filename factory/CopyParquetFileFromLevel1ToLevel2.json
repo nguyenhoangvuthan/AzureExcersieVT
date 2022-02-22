@@ -1,0 +1,9 @@
+{
+	"name": "CopyParquetFileFromLevel1ToLevel2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd36756f-fa6c-411c-97fe-eec62b891222",
+		"tenantId": "c52023da-af69-4493-a601-36b0b97d0c3a"
+	}
+}
